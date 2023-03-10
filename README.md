@@ -1,4 +1,5 @@
-Senpai-Key
+<H1> SENPAI-KEY </H1>
+
 Senpai-Key is a simple password safe app that allows you to store and retrieve website passwords in a secure way. It uses a SQLite3 database to store your passwords, ensuring that your data is encrypted and safe from prying eyes.
 
 Features
